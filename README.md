@@ -7,7 +7,7 @@
 **Social links:**
 - E-mail: [here](mailto:f20091219@outlook.com)
 - QQ: 2950966704
-- Matrix: @fangcat-dev:fedora.im
+- Matrix: [@fangcat_dev:mozilla.org](https://matrix.to/#/@fangcat_dev:mozilla.org)
 - Telegram: [Frank Fang](https://t.me/fangcatf)
 - Personal Blog: [Frank's Blog](https://www.091209.xyz)
 <!---
