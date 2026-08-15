@@ -6,7 +6,7 @@
 
 
 **Preferred social links:**
-- Matrix: [@fangcat_dev:mozilla.org](https://matrix.to/#/@fangcat_dev:mozilla.org)
+- Matrix: [@fangcat_dev:091209.xyz](https://matrix.to/#/@fangcat_dev:091209.xyz)
 - Personal Blog: [Frank's Blog](https://www.091209.xyz)
 - Bilibili: [Fangcat_Dev](https://space.bilibili.com/588672425)
 
