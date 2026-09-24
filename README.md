@@ -2,7 +2,7 @@
 - 🧑‍🎓Senior high student
 - 💻Languages&Tools: Python, C++, Cloudflare, Linux
 - 🌍Speaking: Mandarin, English
-- 🔑My GPG Fingerprint: 51EC FFAD 468B D902
+- 🔑My GPG Fingerprint: [51EC FFAD 468B D902](https://keys.openpgp.org/vks/v1/by-fingerprint/DAA9136B270D40A3DCE9CA7E51ECFFAD468BD902)
 
 
 **Preferred social links:**
