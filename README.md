@@ -6,7 +6,7 @@
 
 
 **Preferred social links:**
-- Matrix: [@fangcat_dev:gitter.im](https://matrix.to/#/@fangcat_dev:gitter.im)
+- Matrix: [@fangcat_dev:pub.solar](https://matrix.to/#/@fangcat_dev:pub.solar)
 - Codeberg: [Fangcat_Dev](https://codeberg.org/Fangcat_Dev)
 - Personal Blog: [Frank's Blog](https://www.091209.xyz)
 - Bilibili: [Fangcat_Dev](https://space.bilibili.com/588672425)
